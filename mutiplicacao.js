@@ -1,5 +1,5 @@
 //mutiplicacao
-var valorum =100;
+var valorum =200;
 var valordois =2;
 var total;
 total = valorum * valordois;
